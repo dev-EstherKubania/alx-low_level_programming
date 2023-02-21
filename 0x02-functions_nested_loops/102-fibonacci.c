@@ -16,8 +16,10 @@ int main(void)
 	printf("%lu", n3);
 	n1 = n2;
 	n2 = n3;
+
 	if (x == 49)
 	printf("\n");
+	
 	else
 	printf(", "); i
 	}

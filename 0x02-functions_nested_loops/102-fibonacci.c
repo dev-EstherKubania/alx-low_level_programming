@@ -20,7 +20,7 @@ int main(void)
 	if (x == 49)
 	printf("\n");
 	else
-	printf(", "); i
+	printf(", "); 
 	}
 	return (0);
 }

@@ -4,7 +4,7 @@
 /**
  * main - prints the numbers from 1 to 100
  * 3 multiples print Fizz
- * 5 multiples print Buzz
+ * 5 multiples print Buzz 
  * 3 & 5  multiples print FizzBuzz
  * Return: Always 0 (Success)
  */
@@ -31,4 +31,3 @@ int main(void)
 	printf("\n");
 	return (0);
 }
-TASK 10 – 10-print_

@@ -1,20 +1,23 @@
 #include "main.h"
 
 /**
- * _memset - Entry point
- * @s: pointed destination
- * @b: constant byte
- * @n: bytes
- * Return: Always 0 (Success)
+ * *_memset - function definition
+ * @s: pointer to a constant
+ * @b: constant to be used
+ * @n: maximum number of bytes
+ * Description: fills a memory address with constant byte
+ * Return: pointer s
  */
+
 char *_memset(char *s, char b, unsigned int n)
 {
-	unsigned int i = 0;
+	unsigned int index;
 
-	for (i = 0; n > 0; i++)
+	for (index = 0; n > 0; index++)
 	{
-		s[i] = b;
+		s[index] = b;
 		n--;
 	}
+
 	return (s);
 }

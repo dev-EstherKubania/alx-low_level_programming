@@ -3,8 +3,8 @@
 #include <stdlib.h>
 
 /**
- * print_grid - prints a grid of integers
- * @grid: the address of the two dimensional grid
+ * alloc_grid - function returns a pointer to a 2 dimensional array
+ * of integers
  * @width: width of the grid
  * @height: height of the grid
  *
@@ -28,6 +28,7 @@ int **alloc_grid(int width, int height)
 	{
 	ptr[x] = malloc(width * sizeof(int));
 	if (ptr[x] == NULL)
+		return (NULL);
 	{
 	for (y = 0; y < x;  y++)
 	free(ptr[y]);

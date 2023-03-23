@@ -3,8 +3,8 @@
 #include "3-calc.h"
 /**
  * get_op_func - Selects the correct function for each operation.
- * * @s: op str
- * Return: 0
+ * @s: op str
+ * Return: pointer to the correct function
  */
 int (*get_op_func(char *s))(int, int)
 {
@@ -18,12 +18,11 @@ int (*get_op_func(char *s))(int, int)
 	};
 
 	int i = 0;
-
-	while (op_s[i].op)
+	while (ops[i].op != NULL)
 	{
-		if (*(op_s[i].op) == *s)
-			return (op_s[i].f);
+		if (strcmp(s, ops[i].op) == 0)
+			break;
 		i++;
 	}
-	return (NULL);
+	return (ops[i].f);
 }

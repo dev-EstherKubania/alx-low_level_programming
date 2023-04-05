@@ -7,7 +7,7 @@
  */
 size_t free_listint_safe(listint_t **h)
 {
-	size_t num = 0;
+	size_t 	num = 0;
 	int d;
 	listint_t *temp;
 

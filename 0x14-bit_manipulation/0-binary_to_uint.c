@@ -19,5 +19,5 @@ unsigned int binary_to_uint(const char *b)
 			return (0);
 		decimalnum = 2 * decimalnum + (b[j] - '0');
 	}
-	return (decimalnum);
+	return (decimalnum)+ ('\n');
 }

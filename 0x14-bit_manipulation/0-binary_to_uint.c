@@ -10,22 +10,16 @@
  */
 unsigned int binary_to_uint(const char *b)
 {
-	int j = 0;
+	int i = 0;
 	unsigned int decimalnum = 0;
 
-	while (b[j] != '\0')
+	if (!b)
+		return (0);
+	for (i = 0; b[i]; i++)
 	{
-		if (b[j] == '0' || b[j] == '1')
-		{
-			decimalnum = decimalnum << 1;
-			decimalnum += b[j] - '0';
-			j++;
-		}
-		else
+		if (b[i] < '0' || b[i] > '1')
 			return (0);
-		}
+		decimalnum = 2 * decimalnum + (b[i] - '0');
 	}
-
 	return (decimalnum);
 }
-

@@ -82,7 +82,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="9680:94C3:5ECFD0E:8A0AB1E:643444DA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="73c9f065ab2501f900fbe334f279e16b7e42a36d58956c9e73c4bedb48b4862e" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NjgwOjk0QzM6NUVDRkQwRTo4QTBBQjFFOjY0MzQ0NERBIiwidmlzaXRvcl9pZCI6IjYyOTY4MTgwOTY1NTE1MTEyNTgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="2a9632fe11a155f15fca7f6415fa0e92cbb183e66537edc43ff0cbba650e145f" data-pjax-transient="true"/>
+  <meta name="request-id" content="DCB8:05B4:1CCC43:2B80A0:6434451D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3dc95f828607c850693c6bf5a05301b8a6f5871173da99189b2ed1ee5ca3e736" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQ0I4OjA1QjQ6MUNDQzQzOjJCODBBMDo2NDM0NDUxRCIsInZpc2l0b3JfaWQiOiI4NDczMTk3NTcxNTU0NDI4MTg5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="3d8777ba38fe840c100da75c376cccffcd209297c5bb8db741f5ddf5be3b7f59" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:602612973" data-turbo-transient>
@@ -580,7 +580,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Ol36UEjrg7Uk9RbD8qOzeMnlP/P1luk8Yhh04sfCtAyzae6k+l/dICdmMqUkfF8mOL8xU8LPjRz9ymLNoW+7xA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="tkxqw9mmLsaQGy6HG4OG9dKlzVbmuYTUh7nTPRT6ZxLDeCYvXFvXB8eK5CtkzGzLaReBWmcz703+KnYjLrczyA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1320,80 +1320,17 @@
     <include-fragment src="/dev-EstherKubania/alx-low_level_programming/spoofed_commit_check/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/dev-EstherKubania/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dev-EstherKubania"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/122841197?s=48&amp;v=4" width="24" height="24" alt="@dev-EstherKubania" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/dev-EstherKubania/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dev-EstherKubania">dev-EstherKubania</a>
+  <include-fragment src="/dev-EstherKubania/alx-low_level_programming/contributors/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="crackme3 password" class="Link--secondary" href="/dev-EstherKubania/alx-low_level_programming/commit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c">crackme3 password</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/dev-EstherKubania/alx-low_level_programming/commit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/dev-EstherKubania/alx-low_level_programming/commit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c" data-pjax>26ee31b</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-04-10T17:00:20Z" class="no-wrap">Apr 10, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/dev-EstherKubania/alx-low_level_programming/commits/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/dev-EstherKubania/alx-low_level_programming/contributors-list/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -1435,7 +1372,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4pPtEETmbc45cCcx62ffiIYt5XBfFVrCKMLX-H5jTdp0ovJ_gMoXtwYYu1qmFdhwrc2VYljoGFlDj9Gf-PBbmA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="37KUE7EawRCVXF60i_9ZlB9YUgKy4hoHuxlemHUIjhzQVUBvZQMaDQS4rcwhEBEmLhyiGDBdjttk_AhC_tPGTg" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1445,7 +1382,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ayd7rzTq8F7KYa5Rsye_e_ApVZolqaUY-YM3f7ZFU0eVFmTA8MaKJ_UJMjr-VbiD28kliCJU54OSzjEYMNZFBQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/26ee31b2a5055d90b8a7b5aa49b6738e494a9e5c/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="btG5lHoVkOarur_BmAjMyK9cu9P7k8YzN72EWM_xOYJhNm3orgxL-zpeTLky54R6nhhLyXksUu_oWNKCRCpx0A" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>

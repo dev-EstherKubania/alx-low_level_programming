@@ -82,7 +82,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="E68A:1FE4:45576B3:6467F52:64343F9D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="06ff960936d7556ed5364052ae453f89a3096b45c00475ac4c5d1ad57d416dd7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNjhBOjFGRTQ6NDU1NzZCMzo2NDY3RjUyOjY0MzQzRjlEIiwidmlzaXRvcl9pZCI6IjEzNjY1NzAxMjMyMzcwMTU0NTMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="35e2dd0ca3c5446396e030df4f21cf3fd93bfccf6c0b0e75f8c68f17b715ef65" data-pjax-transient="true"/>
+  <meta name="request-id" content="E126:4D69:46A068F:65F9935:64344081" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0a3479d7ea81729e49a839f43014439a5130385e881df5ded9b9a556266b6969" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMTI2OjRENjk6NDZBMDY4Rjo2NUY5OTM1OjY0MzQ0MDgxIiwidmlzaXRvcl9pZCI6IjI5NzI2OTk0MzMwNzEwMzQ0OTciLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="b0b45b5d579f574e25603b9585bfb9c8fade97ca1fa4cb8665a501f336603f78" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:602612973" data-turbo-transient>
@@ -580,7 +580,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="7lOwEmB+62z2ifTkx440e7KUFeJqsGBUawSOWbg0MZWRTB8GzF8pwbt7NEzy+7CsgO5leUaUkohQMvifNLtOHw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="jgWOfB0Vu3BPRe5ajej+x0cMKFvoKO1sOEnF5H3ZhBrQWGxRAEE8mRy5jsa+HthW636XrtSg8hbtVIA6TDXsRg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1068,7 +1068,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dev-EstherKubania/alx-low_level_programming/blob/a5fc34305c88997abe6c47bfb9b99103ba6b200d/0x14-bit_manipulation/crackme3.sh">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dev-EstherKubania/alx-low_level_programming/blob/bffb9930eea95b592edad42ac5d5bc413ce5bb3a/0x14-bit_manipulation/crackme3.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1289,7 +1289,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/dev-EstherKubania/alx-low_level_programming/blob/a5fc34305c88997abe6c47bfb9b99103ba6b200d/0x14-bit_manipulation/crackme3.sh" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/dev-EstherKubania/alx-low_level_programming/blob/bffb9930eea95b592edad42ac5d5bc413ce5bb3a/0x14-bit_manipulation/crackme3.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1317,7 +1317,7 @@
   
 </div></div>
 
-    <include-fragment src="/dev-EstherKubania/alx-low_level_programming/spoofed_commit_check/a5fc34305c88997abe6c47bfb9b99103ba6b200d" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/dev-EstherKubania/alx-low_level_programming/spoofed_commit_check/bffb9930eea95b592edad42ac5d5bc413ce5bb3a" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/dev-EstherKubania/alx-low_level_programming/contributors/master/0x14-bit_manipulation/crackme3.sh" class="commit-loader">
@@ -1352,18 +1352,18 @@
 
       11 lines (8 sloc)
       <span class="file-info-divider"></span>
-    227 Bytes
+    193 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/dev-EstherKubania/alx-low_level_programming/raw/a5fc34305c88997abe6c47bfb9b99103ba6b200d/0x14-bit_manipulation/crackme3.sh" href="/dev-EstherKubania/alx-low_level_programming/raw/master/0x14-bit_manipulation/crackme3.sh" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/dev-EstherKubania/alx-low_level_programming/raw/bffb9930eea95b592edad42ac5d5bc413ce5bb3a/0x14-bit_manipulation/crackme3.sh" href="/dev-EstherKubania/alx-low_level_programming/raw/master/0x14-bit_manipulation/crackme3.sh" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/dev-EstherKubania/alx-low_level_programming/blame/a5fc34305c88997abe6c47bfb9b99103ba6b200d/0x14-bit_manipulation/crackme3.sh" href="/dev-EstherKubania/alx-low_level_programming/blame/master/0x14-bit_manipulation/crackme3.sh" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/dev-EstherKubania/alx-low_level_programming/blame/bffb9930eea95b592edad42ac5d5bc413ce5bb3a/0x14-bit_manipulation/crackme3.sh" href="/dev-EstherKubania/alx-low_level_programming/blame/master/0x14-bit_manipulation/crackme3.sh" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1372,7 +1372,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/master/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="X-UroYVFcjKpZXDprL_bC5Wfxqr60Lf47dASRgaXA1gVzHIoM5UJP73-ZNZb6jEGRJcFk6CkF6TdMO3eUCG0ng" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/master/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3wk5ceCDmk7_dafE5sF757u49xyr865L0wIloEqgIhXwT8j3c0zgzXNryIxGYlg7mFjugtxm66Av0PFiTcOp9w" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1382,7 +1382,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/master/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6ncNwi8U-YMkarvTtPNE63lDzTE22RHE0siAnokZwRqgXlRLmcSCjjDxr-xDpq7mqEsOCGytsZjiKH8G36923A" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/dev-EstherKubania/alx-low_level_programming/edit/master/0x14-bit_manipulation/crackme3.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SGcJgTtLgNsdr3_sz_B-FOJ_q-ShsMQ5lAEwZhhSlexnIfgHqIT6WJGxEKRvU13IwZ-yetYlgdJo0-SkHzEeDg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1512,7 +1512,7 @@
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">curl https://github.com/holbertonschool/0x13.c/blob/b2dce6991a499f451ffd5b9522ac5d94ecb7bb56/crackme3 -o start.xt</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">curl https://github.com/holbertonschool/0x13.c/blob/master/crackme3 -o start.xt</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
@@ -1551,7 +1551,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/dev-EstherKubania/alx-low_level_programming/blame/a5fc34305c88997abe6c47bfb9b99103ba6b200d/0x14-bit_manipulation/crackme3.sh">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/dev-EstherKubania/alx-low_level_programming/blame/bffb9930eea95b592edad42ac5d5bc413ce5bb3a/0x14-bit_manipulation/crackme3.sh">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/dev-EstherKubania/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>

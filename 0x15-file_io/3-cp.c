@@ -5,6 +5,7 @@
 
 int copy_file(char *file_from, char *file_to);
 void print_usage(char *program_name);
+int main(int argc, char *argv[]);
 
 /**
  * main - Copies the contents of a file to another file.
@@ -19,6 +20,7 @@ int main(int argc, char *argv[])
 		print_usage(argv[0]);
 	}
 	return (copy_file(argv[1], argv[2]));
+	return (0);
 }
 
 /**
@@ -28,7 +30,7 @@ int main(int argc, char *argv[])
  */
 void print_usage(char *program_name)
 {
-	dprintf(STDERR_FILENO, "Usage: %s file_from file_to\n", program_name);
+	dprintf(STDERR_FILENO, "Usage: cp %s file_from file_to\n", program_name);
 	exit(97);
 }
 

@@ -7,7 +7,6 @@
 
 int copy_file(char *file_from, char *file_to);
 void print_usage(char *program_name);
-int main(int argc, char *argv[]);
 
 /**
  * main - Copies the contents of a file to another file.

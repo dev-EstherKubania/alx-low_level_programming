@@ -99,7 +99,7 @@ int main(int argc, char *argv[])
 	file_perm = S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH;
 	fd_to = open(argv[2], O_WRONLY | O_CREAT | O_TRUNC, file_perm);
 	check300((ssize_t)fd_to, argv[2], fd_from, -1);
-	lena= 1024;
+	lena = 1024;
 	while (lena == 1024)
 	{
 		lena = read(fd_from, buffer, 1024);

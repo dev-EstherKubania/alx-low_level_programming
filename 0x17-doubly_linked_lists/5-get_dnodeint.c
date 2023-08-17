@@ -16,6 +16,6 @@ dlistint_t *get_dnodeint_at_index(dlistint_t *head, unsigned int index)
 	for (i = 0; current_node != NULL && i < index; i++)
 		current_node = current_node->next;
 
-	return current_node;
+	return (current_node);
 }
 

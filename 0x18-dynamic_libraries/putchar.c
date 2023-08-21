@@ -1,21 +1,13 @@
-#include "main.h"
+#include <unistd.h>
 
 /**
- * _memcpy - Copies memory area
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
  *
- * @dest: where to copy the memory to
- * @n: the number of bytes
- * @src: the memory area to copy from
- *
- * Return: a pointer to @dest
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
-
-char *_memcpy(char *dest, char *src, unsigned int n)
+int _putchar(char c)
 {
-	unsigned int i;
-
-	for (i = 0; i < n; i++)
-		dest[i] = src[i];
-
-	return (dest);
+	return (write(1, &c, 1));
 }

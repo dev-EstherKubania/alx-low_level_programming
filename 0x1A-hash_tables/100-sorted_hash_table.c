@@ -22,7 +22,6 @@ shash_table_t *shash_table_create(unsigned long int size)
 	free(new_table);
 	return (NULL);
 	}
-
 	new_table->shead = NULL;
 	new_table->stail = NULL;
 

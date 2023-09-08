@@ -111,12 +111,14 @@ int shash_table_set(shash_table_t *ht, const char *key, const char *value)
  * @ht: The sorted hash table.
  * @key: The key you are looking for.
  *
- * Return: The value associated with the element, or NULL if key couldn’t be found.
+ * Return: The value associated with the element,
+ * or NULL if key couldn’t be found.
  */
 char *shash_table_get(const shash_table_t *ht, const char *key)
 {
 	unsigned long int index;
 	shash_node_t *node;
+
 	if (ht == NULL || key == NULL || strlen(key) == 0)
 	return (NULL);
 

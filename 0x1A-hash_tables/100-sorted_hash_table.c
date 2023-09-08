@@ -6,8 +6,8 @@
 /**
  * shash_table_create - Creates a sorted hash table.
  * @size: The size of the array.
- *
- * Return: A pointer to the newly created sorted hash table, or NULL if it fails.
+ * Return: A pointer to the newly created sorted hash table,
+ * or NULL if it fails.
  */
 shash_table_t *shash_table_create(unsigned long int size)
 {
@@ -39,7 +39,6 @@ shash_table_t *shash_table_create(unsigned long int size)
  * @ht: The sorted hash table.
  * @key: The key. It cannot be an empty string.
  * @value: The value associated with the key.
- *
  * Return: 1 if it succeeded, 0 otherwise.
  */
 int shash_table_set(shash_table_t *ht, const char *key, const char *value)
@@ -113,7 +112,6 @@ int shash_table_set(shash_table_t *ht, const char *key, const char *value)
  * shash_table_get - Retrieves a value associated with a key.
  * @ht: The sorted hash table.
  * @key: The key you are looking for.
- *
  * Return: The value associated with the element,
  * or NULL if key couldn’t be found.
  */

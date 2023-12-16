@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "search_algos.h"
 
 /**
@@ -20,7 +21,14 @@ int binary_search(int *array, size_t size, int value)
 
     while (left <= right)
     {
-        printf(array, left, right);
+        printf("Searching in array: ");
+        for (size_t i = left; i <= right; i++)
+        {
+            printf("%d", array[i]);
+            if (i < right)
+                printf(", ");
+        }
+        printf("\n");
 
         mid = (left + right) / 2;
 
@@ -33,5 +41,5 @@ int binary_search(int *array, size_t size, int value)
             right = mid - 1;
     }
 
-    return -1; 
+    return -1;  /* Value not found */
 }
